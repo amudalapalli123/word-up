@@ -8,6 +8,7 @@ body {
     padding: 2%;
     background: orange;
     color: #fff;
+    font-size: 60px;
 }
 
 main {
@@ -47,19 +48,19 @@ main {
 }
 
 .allowed-letter {
-    font-size: 40px;
+    font-size: 60px;
     color: orange;
 }
 
 .scoreboard-data {
-    font-size: 60px;
+    font-size: 80px;
 }
 
 input {
     text-align: center;
-    padding: 1%;
-    font-size: 30px;
-    color: grey;
+    padding: 2%;
+    font-size: 40px;
+    color: darkgreen;
 }
 
 input:focus {
